@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RezaMathers
-- 👀 I’m interested in Optimization Strategies
-- 🌱 I’m currently learning Data Science and ML for obvious reasons. ;-)
+- 👀 I’m interested in Data Science and Analytics
+- 🌱 I’m currently studying scikit-learn for obvious reasons. ;-)
 - 💞️ I’m looking to collaborate on analytics
 - 📫 How to reach me: rezamathers@gmail.com
 
